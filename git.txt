@@ -1,0 +1,8 @@
+﻿putty key Comment选项输入gitlab上设置的邮箱 生成公钥和私钥
+选择remote->origin
+公钥放在gitlab服务器上
+私钥放在origin->putty上
+
+不必每次都输入账号密码 settings/local.git/config
+[credential]   
+  helper = store

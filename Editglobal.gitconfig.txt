@@ -1,0 +1,3 @@
+[user]
+	name = xuly
+	email = xuly@lessoald.cn
